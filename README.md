@@ -46,7 +46,7 @@ tktk If there is not a starter code repo that students will fork and clone to st
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/lab-hands-on-implementation-of-ml-workflow/tree/main/exercise)
 
 ### Deployed sites
 

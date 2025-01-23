@@ -9,7 +9,7 @@
 
 **Lab Objective:**
 
-Build, train, and evaluate a machine learning pipeline for predicting customer churn and provide actionable insights for the client.
+In this lab, student will build, train, and evaluate a machine learning pipeline for predicting customer churn and provide actionable insights for the client.
 
 **Scenario:**
 

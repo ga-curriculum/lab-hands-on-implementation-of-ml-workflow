@@ -5,7 +5,7 @@
 
 ## About
 
-**ML Workfl ow Implementation for Client Recommendations**
+**ML Workflow Implementation for Client Recommendations**
 
 **Lab Objective:**
 
@@ -27,8 +27,6 @@ In this lab you would want to include prompts like: "How would you explain the t
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
-
-## Internal
 
 ### Prerequisites
 

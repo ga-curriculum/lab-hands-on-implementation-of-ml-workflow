@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Day 1</span>
-  <span class="subhead">Exercise</span>
+  <span class="subhead">Lab</span>
 </h1>
 
 ## ML Workflow Implementation for Client Recommendations

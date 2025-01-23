@@ -26,7 +26,7 @@ In this lab you would want to include prompts like: "How would you explain the t
 ## Content
 
 - [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Exercise](./exercise)
 
 ## Internal
 

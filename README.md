@@ -20,7 +20,7 @@ Build, train, and evaluate a machine learning pipeline for predicting customer c
 - Build a supervised learning pipeline for churn prediction.
 - Evaluate the model using metrics like precision, recall, and F1-score.
 - Prepare a short "client update" slide or document summarizing key insights and proposed actions (e.g., loyalty program tweaks or targeted marketing campaigns).
-- 
+  
 In this lab you would want to include prompts like: "How would you explain the trade-offs between model performance and implementation costs to your client?"
 
 ## Content

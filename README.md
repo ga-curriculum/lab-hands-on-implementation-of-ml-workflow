@@ -39,21 +39,9 @@ In this lab you would want to include prompts like: "How would you explain the t
 
 Estimated time to complete core lab exercise: **90 min**
 
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢
-
 ### Solution code
 
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/lab-hands-on-implementation-of-ml-workflow/tree/main/exercise)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
 
 ### Course landing pages
 
